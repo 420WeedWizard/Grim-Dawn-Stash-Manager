@@ -1,0 +1,15 @@
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\bin\Release\GrimDawnStashManagerV3.exe.config
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\bin\Release\GrimDawnStashManagerV3.exe
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\bin\Release\GrimDawnStashManagerV3.pdb
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\bin\Release\GrimDawnStashManagerV3.xml
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.add.resources
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.display.resources
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.Form1.resources
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.hotkeys.resources
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.vbproj.GenerateResource.Cache
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.exe
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.xml
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.pdb
+C:\Users\Karl\Documents\Visual Studio 2008\Projects\GrimDawnStashManagerV3\GrimDawnStashManagerV3\obj\Release\GrimDawnStashManagerV3.addKey.resources
